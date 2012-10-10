@@ -1,5 +1,13 @@
 .logo {
 	font-size: 3em;
-	color: #00f;
-	
+	color: #132;
+}
+.button {
+	color: #132;
+}
+.button {
+	background-color: #cccccc;
+}
+.button {
+	outline-color: #132;
 }
