@@ -1,13 +1,32 @@
+.logo,
+.logo1 {
+	margin:0;
+	padding:0;
+}
+
 .logo {
 	font-size: 3em;
-	color: #132;
+	color: #000;
+	/*padding-bottom: 0px;*/
+}
+.logo1 {
+	font-size: 1.5em;
+	color: #000;
+	/*padding-left: 35px;*/
+
+
 }
 .button {
 	color: #132;
-}
-.button {
-	background-color: #cccccc;
-}
-.button {
+	background-color: #ccc;
 	outline-color: #132;
+	margin-top: 18px;
+	border-radius: 5px;
+	border: 0px solid #ccc;
+}
+/*.button { 
+	border: 0px solid #ccc;
+}*/
+.button:hover { 
+	color: white; background-color: #000; 
 }
